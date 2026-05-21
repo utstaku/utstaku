@@ -1,7 +1,5 @@
 # Hi, I'm Takuro ABE 👋
 
-## 日本語
-
 東京大学大学院で、プラズマ物理シミュレーションと機械学習を組み合わせた研究に取り組んでいます。特に、Vlasov–Poisson 系における Landau damping や two-stream instability を対象として、流体モデル・潜在変数モデル・データ駆動型 PDE 発見を組み合わせた、解釈可能な低次元モデルの構築を目指しています。
 
 ## 研究関心
@@ -30,7 +28,7 @@
 - Docker / VS Code Remote SSH / Linux 環境での研究開発
 - Git / GitHub を用いたコード管理
 
-また、インターンシップでは太陽光発電量予測に関する機械学習モデルの開発にも取り組みました。気象データや発電量データを用いた特徴量設計、時系列予測モデルの検討、予測誤差の分析などを行い、実データに対する機械学習モデルの構築・評価を経験しました。
+また、インターンシップではAIエンジニアとして実社会に活用可能な機械学習モデルの構築を担当した経験もあります。
 
 ## スキル
 
@@ -68,7 +66,7 @@
 
 ---
 
-## English
+## English version
 
 I am a graduate student at The University of Tokyo, working on research that combines plasma physics simulations with machine learning. In particular, I focus on constructing interpretable reduced-order models for the Vlasov–Poisson system, targeting phenomena such as Landau damping and two-stream instability. My research combines fluid models, latent-variable models, and data-driven PDE discovery.
 
@@ -98,7 +96,7 @@ In my research, I mainly use Python for numerical simulations, machine learning 
 - Research and development in Docker / VS Code Remote SSH / Linux environments
 - Code management using Git and GitHub
 
-I also have internship experience in developing machine learning models for photovoltaic power forecasting. In this work, I worked on feature engineering using meteorological and power generation data, explored time-series forecasting models, analyzed prediction errors, and evaluated machine learning models on real-world data.
+I also have internship experience in developing machine learning models for buisiness situation.
 
 ## Skills
 
