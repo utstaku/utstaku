@@ -40,7 +40,7 @@
 | 企業・団体 | 期間 | 職種・備考 |
 | --- | --- | --- |
 | 松尾研究所 | 2026年3月〜現在 | AIエンジニア |
-
+| Preferred Networks | 2026年8月〜現在 | Part-time engineer |
 
 ## コンペ
 これから追記
@@ -63,6 +63,7 @@
 - Auto-Encoder
 - Neural Operator
 - Time-series forecasting
+- Distribution forecasting
 - Sparse regression
 - Symbolic regression
 - Physics-informed modeling
